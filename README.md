@@ -27,13 +27,13 @@ Turn the **DEBUG_MODE** setting into **true**, on **Real Core** plugin, to show 
 
 ## How to use
 
-Use the script `Real.addQuest(:YOUR_QUEST_ID_HERE)` to add a quest to your players TO-DO list.
+Use the script `Real.addQuest(:YOUR_QUEST_ID_HERE)` to **add** a quest to your players TO-DO list.
 
-Use the script `Real.completeQuest(:YOUR_QUEST_ID_HERE)` to set complete a quest in your players TO-DO list.
+Use the script `Real.completeQuest(:YOUR_QUEST_ID_HERE)` to **set complete** a quest in your players TO-DO list.
 
-Use the script `Real.removeQuest(:YOUR_QUEST_ID_HERE)` to remove a quest of your players TO-DO list.
+Use the script `Real.removeQuest(:YOUR_QUEST_ID_HERE)` to **remove** a quest of your players TO-DO list.
 
-Use the script `Real.isQuestCompleted(:YOUR_QUEST_ID_HERE)` to check if the player complete the quest.
+Use the script `Real.isQuestCompleted(:YOUR_QUEST_ID_HERE)` to **check** if the player complete the quest.
 
 To call **TO-DO List** screen, press the key that you set in **settings** file. 
 By default this key is **O** *(of Olive)*.
