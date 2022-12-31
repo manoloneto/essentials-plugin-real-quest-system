@@ -9,6 +9,8 @@
 
 ## Install
 
+First of all, install the **Real Core** by [clicking here](https://github.com/realAfonso/essentials-plugin-real-core). This is **mandatory**.
+
 You can download this repository by click on **Code** blue button and next on **Donwload ZIP** option.
 
 In your PC, move the **all content of Real Quest System folder** to your **project folder**.
